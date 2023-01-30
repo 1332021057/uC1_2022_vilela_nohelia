@@ -12,4 +12,4 @@ Lenguaje: AMS - C
 
 UNIVERSIDAD NACIONAL DE PIURA, PERÚ
 
-Listado de Prácticas: Librería de retardos, P1-Corrimiento_Leds, P2-Display_7SEG
+Listado de Prácticas: Librería de retardos, P1-Corrimiento_Leds, P2-Display_7SEG, Parcial 2
